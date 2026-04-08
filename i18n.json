@@ -1,0 +1,13 @@
+{
+  "$schema": "https://lingo.dev/schema/i18n.json",
+  "version": "1.15",
+  "locale": {
+    "source": "en",
+    "targets": ["es", "fr", "de", "ja"]
+  },
+  "buckets": {
+    "xcode-xcstrings": {
+      "include": ["MyApp/Localizable.xcstrings"]
+    }
+  }
+}

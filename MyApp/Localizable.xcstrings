@@ -1,0 +1,114 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "welcome_title": {
+      "comment": "Main screen title shown after login",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welcome back!"
+          }
+        }
+      }
+    },
+    "settings_title": {
+      "comment": "Navigation bar title for settings screen",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "logout_button": {
+      "comment": "Button label in settings screen - triggers sign out",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Log out"
+          }
+        }
+      }
+    },
+    "items_count": {
+      "comment": "Shown below a list of items, e.g. '3 items'",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld item"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld items"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "search_placeholder": {
+      "comment": "Placeholder text in the search bar",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Search..."
+          }
+        }
+      }
+    },
+    "empty_state_title": {
+      "comment": "Title shown when no items exist yet",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No items yet"
+          }
+        }
+      }
+    },
+    "empty_state_description": {
+      "comment": "Description below the empty state title, encouraging the user to create their first item",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap the + button to create your first item."
+          }
+        }
+      }
+    },
+    "delete_confirmation": {
+      "comment": "Alert message asking the user to confirm deletion of an item",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Are you sure you want to delete this item? This action cannot be undone."
+          }
+        }
+      }
+    }
+  }
+}
